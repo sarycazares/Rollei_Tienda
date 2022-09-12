@@ -1,0 +1,214 @@
+﻿  Main.cpp
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1723): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1743): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1746): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1749): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1754): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1818): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1838): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1841): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1844): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1849): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1960): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1972): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1980): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1988): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1155): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: vea la declaración de 'localtime'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1176): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1177): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1178): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1179): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1180): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1723): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1743): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1754): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1818): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1838): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1849): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1950): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: vea la declaración de 'strcpy'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1138): warning C4101: 'DDMMAAAAINICIOINT': variable local sin referencia
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1139): warning C4101: 'HHMTSSINICIOINT': variable local sin referencia
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1139): warning C4101: 'HHMTSSACTUALINT': variable local sin referencia
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1138): warning C4101: 'DDMMAAAAACTUALINT': variable local sin referencia
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1138): warning C4101: 'DDMMAAAAFINALINT': variable local sin referencia
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(1139): warning C4101: 'HHMTSSFINALINT': variable local sin referencia
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2133): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2136): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2138): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2140): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2154): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2163): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2217): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2227): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2233): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2239): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2467): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2471): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2133): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2136): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2138): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2140): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2154): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2163): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2446): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2483): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2416): warning C4101: 'pantequimiosho': variable local sin referencia
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2457): warning C4101: 'pangala': variable local sin referencia
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2576): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2601): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2604): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2607): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2612): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2700): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2745): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2748): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2753): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2816): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2576): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2601): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2612): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2700): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2753): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2815): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: vea la declaración de 'strcpy'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2817): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: vea la declaración de 'strcpy'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2818): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: vea la declaración de 'strcpy'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2819): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: vea la declaración de 'strcpy'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(2820): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: vea la declaración de 'strcpy'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3180): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3570): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3599): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3606): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3611): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3724): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3753): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3760): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3765): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3804): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3832): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3839): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3844): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3873): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3876): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3881): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(4139): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3299): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3319): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3337): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3375): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3383): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3431): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3450): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3471): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3490): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3570): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3599): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3611): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3724): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3753): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3765): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3804): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3832): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3844): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(3881): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(4032): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(4082): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(4690): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(4709): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(4712): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(4717): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(4778): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(4452): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(4472): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(4490): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(4528): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(4536): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(4584): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(4603): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(4624): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(4643): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(4690): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(4717): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(4906): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(4946): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(5092): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(5095): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(5097): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(5100): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(5105): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(5059): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: vea la declaración de 'strcpy'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(5060): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: vea la declaración de 'strcpy'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(5092): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(5097): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+d:\2017\desktop\eclipsa\proyectoprogra\progra_winapi\main.cpp(5105): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: vea la declaración de 'itoa'
+  Progra_WinApi.vcxproj -> D:\2017\Desktop\Eclipsa\ProyectoProgra\Debug\Progra_WinApi.exe
+  Progra_WinApi.vcxproj -> D:\2017\Desktop\Eclipsa\ProyectoProgra\Debug\Progra_WinApi.pdb (Full PDB)
